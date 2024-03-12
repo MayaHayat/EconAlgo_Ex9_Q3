@@ -7,6 +7,7 @@ This code tackles a resource allocation problem where a budget needs to be distr
 The code defines a function called find_decomposition that takes two arguments:
 
 budget: A list containing the available budget for each issue.
+
 preferences: A list where each element is a set representing the issues a particular person is interested in.
 
 ## The function works by:
